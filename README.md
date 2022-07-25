@@ -31,7 +31,6 @@ docker-compose up
 
 ## Features
 
-What's all the bells and whistles this project can perform?
 * Swagger Documentation
 * JWT authentication
 * Admin panel
